@@ -96,7 +96,7 @@
     "react-native-video": "6.4.3",
     "react-native-walkthrough-tooltip": "1.6.0",
     "react-native-webrtc": "124.0.3",
-    "react-syntax-highlighter": "15.5.0",
+    "react-syntax-highlighter": "16.0.0",
     "semver": "7.6.3",
     "tinycolor2": "1.6.0",
     "url-parse": "1.5.10"
